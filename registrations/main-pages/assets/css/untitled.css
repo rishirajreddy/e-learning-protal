@@ -1,0 +1,90 @@
+.col-md-6.col-lg-9 {
+  text-align: center;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+button {
+  /*padding: 90px;*/
+}
+
+div {
+  margin-top: 30px;
+}
+
+.col-md-6.col-lg-3 {
+  /*background-color: yellow;*/
+  margin-top: 55px;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+  /*margin-top: 0px;*/
+}
+
+#navbarNav {
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+nav .wrapper {
+  /*position: absolute;*/
+  top: 65px;
+  display: flex;
+  width: 400px;
+  background: #FFF;
+  border-radius: 5px;
+}
+
+nav .drop-btn {
+  width: 400px;
+  background: blue;
+  line-height: 50px;
+  padding: 0 20px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 400px;
+}
+
+nav .drop-btn span {
+  float: right;
+  line-height: 50px;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 2px;
+  /*margin-bottom: 5000px;*/
+}
+
+select {
+  background: #0ea0ff;
+  color: #FFF;
+  /*-webkit-appereance: none;*/
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+  margin-top: 30px;
+}
+
+.ju {
+}
+
+.jumbotron {
+  /*padding: 10px;*/
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.jumbotron {
+  /*margin-top: -500px;*/
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  margin-top: 3px;
+}
+

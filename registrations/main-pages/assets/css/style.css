@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.btn-primary{
+    font-size: 19px;
+}
+#programming-btn {
+    padding:60px 20px 60px 20px;
+    margin-top:30px;
+    margin-right:400px;
+}
+
+#hindi-btn{
+    padding:50px 90px 50px 90px;
+    margin-left: 500px;
+    margin-top:-220px
+    
+}
+#english-btn {
+    padding:50px 90px 50px 90px;
+    margin-top:-20px;
+    margin-right:400px;
+    margin-right:400px;
+}
+#maths-btn{
+    padding:50px 90px 50px 90px;
+    margin-left: 500px;
+    margin-top:-180px;
+}
+#science-btn {
+    padding:50px 90px 50px 90px;
+    margin-top:-10px;
+    margin-right:400px;
+}
+#social-btn {
+    padding:50px 90px 50px 90px;
+    margin-top:-175px;
+    margin-left: 500px;
+}

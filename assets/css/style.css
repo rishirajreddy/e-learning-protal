@@ -1,0 +1,70 @@
+
+
+a:not([href]):not([class]), a:not([href]):not([class]):hover {
+    cursor: pointer;
+  }
+  
+  #dropdownMenuLink::after {
+    border: 1px solid #2696FD;
+  }
+  .dropdown-toggle::after {
+    display:none;
+  }
+  .dropdown {
+    font-family: 'Montserrat', sans-serif;
+  }
+  #video-container {
+      margin-top: 30px;
+      margin-left: 14%;
+  }
+  #video-box {
+      border: 1px solid white;
+      border-radius: 9px;
+  }
+  #dropdownMenuLink {
+    font-family: 'Montserrat', sans-serif;
+  }
+  .modal-backdrop {
+    position:unset !important;
+  }
+  .modal{
+  
+    color: #2696FD;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .modal form label {
+    margin-left: 20px;
+  }
+  .carousel-inner {
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 3px 5px 29px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 3px 5px 29px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 5px 29px 0px rgba(0,0,0,0.75);
+  }
+  .modal form input {
+    width: 300px;
+    margin-left: 20px;
+  }
+  #submit {
+    margin-left: 40%;
+  }
+  #login-btn-student {
+      margin-left: 40%;
+      margin-bottom: 20px;
+  }
+  #login-btn-faculty {
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+  .modal-title {
+    margin-left: 39%;
+  }
+
+  @media only screen and (max-width: 1085px){
+    #video-container {
+      position: relative;
+
+    }
+  }
